@@ -1,4 +1,4 @@
-age = 20
+my_age = 20
 intra = 42
-Mix = age + intra
+Mix = my_age + intra
 print(Mix)
