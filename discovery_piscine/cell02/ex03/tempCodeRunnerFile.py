@@ -1,0 +1,1 @@
+The result is positive and negative."
